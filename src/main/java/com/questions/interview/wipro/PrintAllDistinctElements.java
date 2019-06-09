@@ -1,4 +1,4 @@
-package wipro;
+package com.questions.interview.wipro;
 
 import java.util.Arrays;
 import java.util.HashSet;

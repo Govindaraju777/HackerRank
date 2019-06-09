@@ -1,0 +1,26 @@
+1. What is concurrent hashmap
+  - Difference bw Synchronized map and concurrentHashmap
+  - How many chunks/segments concurrentHashmap is dividen into..
+  
+ 2. Most efficient Sorting algorothim
+ 3. Writer the hierarchy of collection framework
+ 		- and asked for time complexity of some..
+ 4. Write jvm archi
+ 5. Design a Whats app system...
+ 
+ 6. Given a array/List of sorted numbers ( numbers1,numbers2, numbers3 etc)
+ 	- Which is the best way (collection) to get the merged list of those numbers.
+ 	
+ 	{1,4,7}
+ 	{2,5,8}
+ 	{3,6,9}
+ 	
+ 	- Solution 
+ 		https://youtu.be/6bvnZzwiKzs
+ 	--- https://www.youtube.com/watch?v=xF3TU-QlhJQ
+ 	
+7. Association / Composition
+
+8. What are the design patterns 
+	- Facade pattern
+	

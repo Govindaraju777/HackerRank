@@ -1,0 +1,8 @@
+JNDI
+
+XTA Datasource
+
+DevOps 
+	- Docker
+	- Kubernetis
+
