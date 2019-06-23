@@ -1,0 +1,15 @@
+Features of Java 6
+
+Java 6 Platform :
+
+Pluggable Annotation Processing API (JSR 269)
+Common Annotations (JSR 250)
+Java API for XML Based Web Services – 2.0 (JSR 224)
+JAXB 2.0 (JSR 222)
+Web Services Metadata (JSR 181)
+Streaming API for XML (JSR 173)
+XML Digital Signature (JSR 105)
+Java Class File Specification Update (JSR 202)
+Java Compiler API (JSR 199)
+JDBC 4.0 (JSR 221)
+Scripting in the Java Platform (JSR 223)
